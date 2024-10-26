@@ -1,0 +1,15 @@
+.form {
+    padding: 56px;
+}
+
+.input {
+    display: grid;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.tb {
+    width: 80%;
+    padding: 28px;
+    align-items: center;
+}
